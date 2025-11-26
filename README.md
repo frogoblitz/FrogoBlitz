@@ -207,7 +207,7 @@
     <h1>FROGOBLITZ</h1>
     <p>The fastest frog on Solana. One leap to the moon. Powered by community, fueled by speed.</p>
     <div style="margin-top: 40px;">
-      <a href="https://jup.ag/swap?in=SOL&out=YOUR_CA" class="btn btn-primary">BUY $FROGO</a>
+      <a href="https://jup.ag/swap?in=SOL&out=YOUR_CA_HERE" class="btn btn-primary">BUY $FROGO</a>
       <a href="https://t.me/frogoblitz" class="btn btn-outline">JOIN TELEGRAM</a>
     </div>
   </section>
